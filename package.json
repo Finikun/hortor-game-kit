@@ -1,0 +1,20 @@
+{
+	"name": "com.hortor.gamekit",
+	"displayName": "Hortor Game Kit",
+	"version": "1.0.0",
+	"unity": "2019.3",
+	"description": "Unity3D library for importing and exporting GLTF 2.0 assets.",
+	"keywords": [
+		"hortor",
+		"gltf",
+		"cocos"
+	],
+	"author": {
+		"name": "Hortor Games",
+	   	"email": "weibo@hortorgames.com",
+	   	"url": "http://www.hortorgames.com/"
+	},
+	"dependencies": {
+		"com.unity.nuget.newtonsoft-json": "1.1.2"
+	}
+}
