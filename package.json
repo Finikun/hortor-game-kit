@@ -1,7 +1,7 @@
 {
 	"name": "com.hortor.gamekit",
 	"displayName": "Hortor Game Kit",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"unity": "2019.3",
 	"description": "Unity3D library for exporting Unity3D resources to Cocos Creator 3D.",
 	"keywords": [
