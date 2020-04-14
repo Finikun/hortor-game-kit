@@ -3,7 +3,7 @@
 	"displayName": "Hortor Game Kit",
 	"version": "1.0.0",
 	"unity": "2019.3",
-	"description": "Unity3D library for importing and exporting GLTF 2.0 assets.",
+	"description": "Unity3D library for exporting Unity3D resources to Cocos Creator 3D.",
 	"keywords": [
 		"hortor",
 		"gltf",
